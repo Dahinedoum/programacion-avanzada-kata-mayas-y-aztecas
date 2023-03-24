@@ -38,30 +38,30 @@ El ejercicio en cuestión será de cómo, cierto día, intentaron resolver "a go
 
     **Warrior**:
 
-    `constructor(life, power)`: Establece el valor de las propiedades _life_ y _power_
+    <!-- `constructor(life, power)`: Establece el valor de las propiedades _life_ y _power_ -->
 
-    `attack`: Devuelve el valor de _power_ del guerrero
+    <!-- `attack`: Devuelve el valor de _power_ del guerrero -->
 
-    `defend(damage)`: resta el valor del parámetro recibido _damage_ al valor de la propiedad _life_. Después, imprime el valor de la vida restante.
+    <!-- `defend(damage)`: resta el valor del parámetro recibido _damage_ al valor de la propiedad _life_. Después, imprime el valor de la vida restante. -->
 
     **Maya: extiende de la clase Warrior**
 
-    `constructor`: Aquí establecemos los valores para el maya, que no hay que olvidar que es un guerrero.
+    <!-- `constructor`: Aquí establecemos los valores para el maya, que no hay que olvidar que es un guerrero. -->
 
-    `drinkColaCao`: Suma 10 al poder.
+    <!-- `drinkColaCao`: Suma 10 al poder. -->
 
     **Aztec: extiende de la clase Warrior**
 
-    `constructor`: Aquí establecemos los valores para el azteca, que no hay que olvidar que es un guerrero.
+    <!-- `constructor`: Aquí establecemos los valores para el azteca, que no hay que olvidar que es un guerrero. -->
 
-    `drinkNesquik`: Suma 10 a la vida.
+    <!-- `drinkNesquik`: Suma 10 a la vida. -->
 
 3. Realiza la siguiente cadena de intercambio de golpes.
 
-    - Azteca bebe nesquik
+    <!-- - Azteca bebe nesquik -->
 
-    - Maya bebe Cola Cao
+    <!-- - Maya bebe Cola Cao -->
 
-    - Maya ataca a azteca. Azteca defiende.
+    <!-- - Maya ataca a azteca. Azteca defiende. -->
 
-    - Azteca ataca a maya. Maya defiende.
+    <!-- - Azteca ataca a maya. Maya defiende. -->
